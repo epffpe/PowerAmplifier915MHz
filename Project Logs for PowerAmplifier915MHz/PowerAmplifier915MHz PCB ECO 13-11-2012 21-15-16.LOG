@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=VG Pin=C?-2
+Removed Pin From Net: NetName=VCC Pin=Q?-2
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Removed Pin From Net: NetName=VG Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-5
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=U?
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=U?
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=U?
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=U?
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=U?
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VG Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VG Pin=C6-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=VCC Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=OUT2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=OUT2 Pin=R3-1
+Added Pin To Net: NetName=OUT2 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=CNT2 Pin=R10-1
+Added Pin To Net: NetName=CONTROL Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=CNT2 Pin=R12-2
+Added Pin To Net: NetName=CNT1 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=CNT1 Pin=R15-2
+Added Pin To Net: NetName=VG Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=CNT2 Pin=U2-1
+Added Pin To Net: NetName=OUT2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R7-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-3
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R10-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U1-4
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=U2-7
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U2-5
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R8-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R11-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R8-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R9-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R13-1
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R13-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R14-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-2
+Added Pin To Net: NetName=NetR2_2 Pin=R6-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component C1 Cap Pol2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component C2 Cap Pol2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component C3 Capacitor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component C5 Capacitor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component C6 Capacitor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D2 LED
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D3 BAS316
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component P1 SMA2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component P3 SMA2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component Q1 BC807
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component Q2 CMPT3904
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R1 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R2 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R3 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R4 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R5 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R6 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R8 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R9 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R10 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R11 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R12 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R13 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R14 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R15 Resistor
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component U1 M68772A
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component U2 UPG137GV
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component U3 MMPQ6700

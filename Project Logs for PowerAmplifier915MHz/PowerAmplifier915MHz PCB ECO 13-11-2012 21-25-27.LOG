@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=D3 Old Footprint=LED0603 New Footprint=SOD-323
+Added Component: Designator=D4(LED0603)
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q3-3
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R14-2
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D4 LED

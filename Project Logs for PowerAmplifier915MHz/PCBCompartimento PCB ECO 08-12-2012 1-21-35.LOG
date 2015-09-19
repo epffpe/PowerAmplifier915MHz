@@ -1,0 +1,4 @@
+Added Component: Designator=P11(Header2Macho)
+Added Pin To Net: NetName=NetD5_1 Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P11-2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component P11 Header2

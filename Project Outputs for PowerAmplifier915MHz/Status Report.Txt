@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PowerAmplifier915MHz.PrjPcb]
+   Generated File[PowerAmplifier915MHz.TXT]
+   Generated File[PowerAmplifier915MHz.LDP]
+   Generated File[PowerAmplifier915MHz.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:46:28 On 18/12/2012

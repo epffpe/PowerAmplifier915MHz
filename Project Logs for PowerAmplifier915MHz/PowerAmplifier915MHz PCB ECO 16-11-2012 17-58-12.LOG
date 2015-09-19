@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VCC Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=VCC Pin=P4-1
+Removed Pin From Net: NetName=VCC Pin=P4-3
+Removed Pin From Net: NetName=VCC Pin=P4-5
+Removed Member From Class: ClassName=PowerAmplifier915MHz Member=D3
+Added Component: Designator=D5(MBRS130T3)
+Added Component: Designator=D6(MBRS130T3)
+Added Component: Designator=D7(MBRS130T3)
+Added Component: Designator=D8(MBRS130T3)
+Added Pin To Net: NetName=VCC Pin=D5-2
+Added Pin To Net: NetName=VCC Pin=D6-2
+Added Pin To Net: NetName=VCC Pin=D7-2
+Added Pin To Net: NetName=VCC Pin=D8-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-1
+Added Pin To Net: NetName=NetD5_1 Pin=D7-1
+Added Pin To Net: NetName=NetD5_1 Pin=D8-1
+Added Pin To Net: NetName=NetD5_1 Pin=P4-1
+Added Pin To Net: NetName=NetD5_1 Pin=P4-3
+Added Pin To Net: NetName=NetD5_1 Pin=P4-5
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D5 MBRS130T3
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D6 MBRS130T3
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D7 MBRS130T3
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component D8 MBRS130T3

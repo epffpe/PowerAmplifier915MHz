@@ -1,0 +1,4 @@
+Added Component: Designator=R16(RES0805)
+Added Pin To Net: NetName=NetP1_1 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Member To Class: ClassName=PowerAmplifier915MHz Member=Component R16 Resistor

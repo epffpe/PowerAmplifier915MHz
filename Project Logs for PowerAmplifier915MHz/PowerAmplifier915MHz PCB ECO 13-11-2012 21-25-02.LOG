@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D3 Old Footprint=SOD-323 New Footprint=LED0603
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-3
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R14-2
+Added Net: Name=NetD3_2

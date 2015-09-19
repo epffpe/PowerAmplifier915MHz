@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCC Pin=Q1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=VCC Pin=Q3-2
+Removed Pin From Net: NetName=NetD4_1 Pin=Q3-3
+Added Pin To Net: NetName=NetD2_1 Pin=U3-5
+Added Pin To Net: NetName=NetD2_1 Pin=U3-6
+Added Pin To Net: NetName=NetD4_1 Pin=U3-7
+Added Pin To Net: NetName=NetD4_1 Pin=U3-8
+Added Pin To Net: NetName=VCC Pin=U3-10
+Added Pin To Net: NetName=VCC Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-14
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-1
+Added Pin To Net: NetName=NetR8_1 Pin=R13-1
+Added Pin To Net: NetName=NetR8_1 Pin=U3-3
+Added Pin To Net: NetName=NetR8_1 Pin=U3-4
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-11
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U3-13
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U3-9
+Added Net: Name=NetR13_2
